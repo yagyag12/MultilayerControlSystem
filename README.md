@@ -4,7 +4,7 @@ Multilayer (Network + Application) control system simulation on Simulink.
 
 ## Overview
 
-This project is a final project for the course *Technologie Informatiche Per L'automazione Industriale* (Information Technologies for Industrial Automation) by Yagiz Yagmur. The project involves a Simulink simulation of an industrial conveyor belt system controlled by a PLC, considering multiple operations, network delays, and physical constraints. A presentation is also included.
+This project is a final project for the course *Tecnologie Informatiche Per L'automazione Industriale* (Information Technologies for Industrial Automation) by Yagiz Yagmur. The project involves a Simulink simulation of an industrial conveyor belt system controlled by a PLC, considering multiple operations, network delays, and physical constraints. A presentation is also included.
 
 ## Simulation Subsystems
 
